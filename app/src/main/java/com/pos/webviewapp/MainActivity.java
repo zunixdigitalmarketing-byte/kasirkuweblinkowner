@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebChromeClient(new WebChromeClient());
 
         // URL tujuan POS
-        webView.loadUrl("https://forestgreen-termite-599559.hostingersite.com/owner/");
+        webView.loadUrl("https://forestgreen-termite-599559.hostingersite.com/#/pos");
     }
 
     @Override
